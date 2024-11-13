@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My project\\QLTV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|d:\\my project\\qltv3\\ql th\u01B0 vi\u1EC7n\\all user control\\ucquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\ucquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\ucquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\ucquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\suachitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\suachitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\themsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\themsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\suachitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\suachitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\themsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\themsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\themchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\themchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\chitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\chitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\themchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\themchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\chitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\chitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\nxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\nxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\nxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\nxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A57AA3-076C-4FAC-A630-A48504583BDC}|QL th\u01B0 vi\u1EC7n\\QL th\u01B0 vi\u1EC7n.csproj|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My project\\QLTV3\\ql th\u01B0 vi\u1EC7n\\all user control\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ql th\u01B0 vi\u1EC7n\\all user control\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuaChiTiet.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:47:12.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuaChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\SuaChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:44:12.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemChiTiet.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:31:04.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\ThemChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:12:27.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "theloai.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:29:59.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chude.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:24:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Themsach.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:23:37.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Themsach.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\Themsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:42:31.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NXB.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:26:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "chitietsach.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:53:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chitietsach.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\chitietsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:53:01.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCquanlysach.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:54:39.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCquanlysach.cs",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\UCquanlysach.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:55:05.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "theloai.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\theloai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:42:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chude.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\Chude.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:42:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Phieumuon.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Phieumuon.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\Phieumuon.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\Phieumuon.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\Phieumuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:06:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NXB.cs [Design]",
+              "DocumentMoniker": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "RelativeDocumentMoniker": "QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs",
+              "ToolTip": "D:\\My project\\QLTV3\\QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs [Design]",
+              "RelativeToolTip": "QL th\u01B0 vi\u1EC7n\\All user control\\NXB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:12:47.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
